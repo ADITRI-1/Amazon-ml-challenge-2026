@@ -1,0 +1,7 @@
+# Blackwell (sm_120) needs a CUDA 12.8+ torch build:  pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch>=2.7
+transformers>=4.48   # ModernBERT (Laya encoder); saved with 5.17
+polars>=1.0
+pyarrow
+scikit-learn
+numpy

@@ -1,0 +1,12 @@
+output/
+dataset/
+cache/
+models/
+submission/
+laya_fr_kit/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.zip
